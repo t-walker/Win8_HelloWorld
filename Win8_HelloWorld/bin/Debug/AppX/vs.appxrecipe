@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>TYLER-LAPTOP</Machine>
+    <WindowsUser>tyler_000</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>b374bb0c-2647-4447-aa45-31093fe036dd</PackageIdentityName>
+    <RegisteredManifestChecksum>017653E688F6A47F788DFFB95E75DAD9AE46F77B9C1C31118424C9C1063D46B8</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>b374bb0c-2647-4447-aa45-31093fe036dd_1.0.0.0_neutral__pd5198adt0030</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>b374bb0c-2647-4447-aa45-31093fe036dd_pd5198adt0030!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>b374bb0c-2647-4447-aa45-31093fe036dd</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=tyler_000</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\tyler_000\Documents\GitHub\Win8_HelloWorld\Win8_HelloWorld\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-30T22:08:43.605</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\tyler_000\Documents\GitHub\Win8_HelloWorld\Win8_HelloWorld\bin\Debug\Win8_HelloWorld.exe">
+      <PackagePath>Win8_HelloWorld.exe</PackagePath>
+      <Modified>2015-05-31T04:48:54.376</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tyler_000\Documents\GitHub\Win8_HelloWorld\Win8_HelloWorld\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tyler_000\Documents\GitHub\Win8_HelloWorld\Win8_HelloWorld\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tyler_000\Documents\GitHub\Win8_HelloWorld\Win8_HelloWorld\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tyler_000\Documents\GitHub\Win8_HelloWorld\Win8_HelloWorld\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tyler_000\Documents\GitHub\Win8_HelloWorld\Win8_HelloWorld\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2015-05-30T22:08:24.791</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tyler_000\Documents\GitHub\Win8_HelloWorld\Win8_HelloWorld\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-05-31T04:48:53.708</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tyler_000\Documents\GitHub\Win8_HelloWorld\Win8_HelloWorld\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-05-31T04:48:53.714</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tyler_000\Documents\GitHub\Win8_HelloWorld\Win8_HelloWorld\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-05-30T22:08:42.960</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
