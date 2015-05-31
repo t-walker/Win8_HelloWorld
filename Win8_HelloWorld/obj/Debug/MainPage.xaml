@@ -13,6 +13,20 @@
     <Page.Resources>
         <!-- TODO: Delete this line if the key AppName is declared in App.xaml -->
         <x:String x:Key="AppName">Hello, World!</x:String>
+        <Style x:Key="BigGreenTextStyle" TargetType="TextBlock">
+            <Setter Property="Foreground" Value="Green"/>
+            <Setter Property="FontSize" Value="36"/>
+            <Setter Property="FontFamily" Value="{ThemeResource ContentControlThemeFontFamily}"/>
+            <Setter Property="SelectionHighlightColor" Value="{ThemeResource TextSelectionHighlightColorThemeBrush}"/>
+            <Setter Property="TextTrimming" Value="CharacterEllipsis"/>
+            <Setter Property="TextWrapping" Value="Wrap"/>
+            <Setter Property="Typography.StylisticSet20" Value="True"/>
+            <Setter Property="Typography.DiscretionaryLigatures" Value="True"/>
+            <Setter Property="Typography.CaseSensitiveForms" Value="True"/>
+            <Setter Property="LineStackingStrategy" Value="BlockLineHeight"/>
+            <Setter Property="TextLineBounds" Value="TrimToBaseline"/>
+            <Setter Property="OpticalMarginAlignment" Value="TrimSideBearings"/>
+        </Style>
     </Page.Resources>
 
     <!--
@@ -52,7 +66,7 @@
                 <TextBox x:Name="nameInput" Width="300" HorizontalAlignment="Left" />
                 <Button x:ConnectionId='1' Content="Stay &quot;Hello&quot;"                      />
             </StackPanel>
-            <TextBlock x:Name="greetingOutput" Style="{StaticResource BaseTextBlockStyle}" />
+            <TextBlock x:Name="greetingOutput" Style="{StaticResource BigGreenTextStyle}" />
         </StackPanel>
     </Grid>
 </Page>

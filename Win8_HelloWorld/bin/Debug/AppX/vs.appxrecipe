@@ -23,7 +23,7 @@
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\tyler_000\Documents\GitHub\Win8_HelloWorld\Win8_HelloWorld\bin\Debug\Win8_HelloWorld.exe">
       <PackagePath>Win8_HelloWorld.exe</PackagePath>
-      <Modified>2015-05-31T04:48:54.376</Modified>
+      <Modified>2015-05-31T05:05:44.481</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tyler_000\Documents\GitHub\Win8_HelloWorld\Win8_HelloWorld\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
@@ -51,11 +51,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tyler_000\Documents\GitHub\Win8_HelloWorld\Win8_HelloWorld\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2015-05-31T04:48:53.708</Modified>
+      <Modified>2015-05-31T05:05:44.023</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tyler_000\Documents\GitHub\Win8_HelloWorld\Win8_HelloWorld\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2015-05-31T04:48:53.714</Modified>
+      <Modified>2015-05-31T05:05:44.029</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tyler_000\Documents\GitHub\Win8_HelloWorld\Win8_HelloWorld\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
